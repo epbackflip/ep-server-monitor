@@ -1,0 +1,14 @@
+[
+    {
+        "host": "51.38.114.131",
+        "port": 22003,
+        "type": "mtasa",
+        "appId": 0,
+        "discord": {
+            "channelIds": ["1003387344604385360"]
+        },
+        "telegram": {
+            "chatIds": []
+        }
+    }
+]
